@@ -3,6 +3,15 @@
   background-color: lightgray;
 }
 
+.jumbotron {
+  text-align: center;
+  border-width: medium;
+}
+
+h3 {
+  font-size: 32px
+}
+
 .well {
   background-color: #eeeeee;
   text-align: center;
