@@ -1,11 +1,11 @@
 .background {
   margin: 12px lightgray;
-  border: 2px red;
   background-color: lightgray;
 }
 
 .well {
   background-color: #eeeeee;
+  text-align: center;
 }
 
 .global-font {
@@ -24,6 +24,10 @@ img {
 
 blockquote {
   float: right;
+}
+
+.projects {
+  text-align: center;
 }
 
 .column {
