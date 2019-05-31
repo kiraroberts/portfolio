@@ -20,8 +20,8 @@ blockquote {
   float: right;
 }
 
-.sidebar {
-  width: 30%
+.column {
+  width: 300px;
   float: right;
 }
 
