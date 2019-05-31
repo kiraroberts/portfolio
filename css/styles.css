@@ -1,0 +1,21 @@
+.background {
+  background-color: lightgray;
+}
+
+.well {
+  background-color: #eeeeee;
+}
+
+.global-font {
+  font-family: sans-serif;
+}
+
+img {
+  float: left:
+  max-height: auto;
+  max-width: 50%;
+}
+
+.fancy {
+  font-style: italic;
+}
