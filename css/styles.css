@@ -1,4 +1,6 @@
 .background {
+  margin: 12px lightgray;
+  border: 2px red;
   background-color: lightgray;
 }
 
@@ -16,6 +18,10 @@ img {
   max-width: 50%;
 }
 
+.panel {
+  background-color: #eeeeee;
+}
+
 blockquote {
   float: right;
 }
@@ -26,5 +32,6 @@ blockquote {
 }
 
 .fancy {
+  font-weight: bold;
   font-style: italic;
 }
