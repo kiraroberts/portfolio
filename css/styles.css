@@ -1,5 +1,7 @@
 .background {
-  margin: 12px lightgray;
+  margin: 12px gray;
+  border: 4px gray;
+  padding: 4px;
   background-color: lightgray;
 }
 
